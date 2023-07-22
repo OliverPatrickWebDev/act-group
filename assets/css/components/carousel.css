@@ -1,0 +1,36 @@
+/* Home Page */
+
+.carousel-inner {
+    height: 60em;
+    border-top: 15px solid var(--secondary);
+}
+
+.carousel-img1 {
+    background: url(../../img/estudio1.jpg) center/cover no-repeat;
+}
+
+.carousel-img2 {
+    background: url(../../img/estudio2.jpg) center/cover no-repeat;
+}
+
+.carousel-img3 {
+    background: url(../../img/podcast.jpg) center/cover no-repeat;
+}
+
+#legenda {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.8);
+}
+
+#legenda span {
+    font-size: 1.5rem;
+}
+
+/* Galery Page */
+
+#galery h1 {
+    color: var(--secondary);
+}

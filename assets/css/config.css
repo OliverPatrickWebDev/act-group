@@ -1,0 +1,23 @@
+/* Colors */
+
+:root {
+    --primary: #000;
+    --secondary: #ed3236;
+    --alternative: #fff;
+    --light: #F0F0F0;
+    --medium: #333333;
+    --dark: #201c1c;
+    --text-primary: #fff;
+    --text-secondary: #000;
+    --text-alternative: #ED3236;
+    font-size: 62.5%;
+}
+
+::-webkit-scrollbar {
+    width: 0px;
+}
+
+@font-face {
+    font-family: 'Monument';
+    src: url('../fonts/monument-extended.ttf') format('truetype'), url('../fonts/monument-extended.otf') format('opentype');
+}

@@ -1,0 +1,33 @@
+.navbar {
+    height: 30vh;
+}
+
+.navbar-brand img {
+    width: 20vh;
+    height: auto;
+}
+
+.navbar a {
+    color: var(--text-primary);
+    font-size: 2rem;
+}
+
+.navbar a:hover {
+    color: var(--text-alternative);
+    font-size: 2rem;
+    transform: scale(1.1);
+    transition: 300ms ease-in-out;
+}
+
+.navbar-nav .nav-link.active {
+    color: var(--text-primary);
+}
+
+.nav-link.active {
+    background-color: var(--text-alternative);
+}
+
+.bi {
+    font-size: 1.5em;
+    color: var(--text-alternative);
+}
