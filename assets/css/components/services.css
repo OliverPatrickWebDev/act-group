@@ -1,0 +1,30 @@
+/* Home Page */
+
+/* Services Page */
+
+.services-prod {
+    width: 25rem;
+    height: auto;
+}
+
+#services .button {
+    background-color: var(--secondary);
+}
+
+.btn {
+    color: var(--text-primary);
+}
+
+.button:hover {
+    transform: scale(1.1);
+    transition: 300ms;
+}
+
+.card {
+    background-color: var(--primary);
+    border-top: 5px var(--secondary) solid;
+}
+
+.card h6 {
+    color: var(--secondary);
+}

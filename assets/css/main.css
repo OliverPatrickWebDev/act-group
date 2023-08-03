@@ -4,7 +4,6 @@
 @import url(./global.css);
 
 /* Components */
-
 @import url(./components/navbar.css);
 @import url(./components/carousel.css);
 @import url(./components/about.css);
@@ -12,3 +11,7 @@
 @import url(./components/footer.css);
 @import url(./components/contact.css);
 @import url(./components/term.css);
+@import url(./components/services.css);
+
+/* Imports Folder Products */
+@import url(./components/products-page.css);

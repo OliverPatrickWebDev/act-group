@@ -21,21 +21,10 @@
 
 /* About Page */
 
-.logo-about {
-    width: 35rem;
-    height: auto;
-}
-
-.card {
-    background-color: var(--primary);
-    border-top: 5px var(--secondary) solid;
-}
-
-.card h6 {
+#spec h3 {
     color: var(--secondary);
 }
 
-.about-prod {
-    width: 25rem;
-    height: auto;
+#spec p {
+    font-size: 1.5rem;
 }
