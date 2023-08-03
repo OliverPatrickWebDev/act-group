@@ -1,0 +1,7 @@
+.active-menu {
+    border-bottom: 1px solid var(--secondary);
+}
+
+#content-product h4 {
+    color: var(--secondary);
+}
